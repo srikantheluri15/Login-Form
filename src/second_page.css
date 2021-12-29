@@ -1,0 +1,79 @@
+.first_col{
+    justify-content: flex-end;
+    
+}
+.nav_bar_class{
+    padding: 10px;
+    justify-items: flex-end;
+    
+}
+
+.second_col{
+    background-color: white;
+    height: 90px;
+    padding: 5px;
+}
+.icons{
+    height: 25px;
+    margin: 5px;
+    padding: 5px;
+}
+.img_col{
+    text-align: center;
+    margin-top: auto;
+    
+    
+}
+.img_row{
+    width: 100%;
+}
+.reports_text{
+    color: rgb(48, 116, 219);
+    size: 25px;
+}
+.inside_grid{
+    background-color: white;
+    margin: 5px;
+    border: solid whitesmoke 1px;
+    padding: 10px;
+    color: black;
+}
+.inside_grid:hover{
+    background-color: rgb(62, 119, 226);
+    color: white;
+}
+
+.card1{
+    padding: 10px;
+    border: none;
+    
+}
+.round_number{
+    text-align: center;
+    color: black;
+    width: 25px;
+    height: 25px;
+    border-radius: 45px;
+    background-color: white;
+}
+.dropdown_list{
+    color: gray;
+}
+.sidebar{
+    background-color: #e6f6ff;
+    width: 100%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #096f92;
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+    border-radius: 4px;
+    padding: 10px;
+}
+.table_head{
+    background-color: #e6f6ff;
+}
+.notify{
+    padding-top: 11px;
+}
